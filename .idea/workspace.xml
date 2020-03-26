@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a925bd-f275-433c-82e4-78231f6bf5c3" name="Default Changelist" comment="" />
+    <list default="true" id="01a925bd-f275-433c-82e4-78231f6bf5c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZXVQ0t4mwh9kUTzhZMbIc4lfGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -58,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584985405716</updated>
       <workItem from="1584985458423" duration="14996000" />
+      <workItem from="1585225755624" duration="2120000" />
     </task>
     <servers />
   </component>
@@ -81,10 +91,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="604" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585068961168" />
-    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585223294518">
+    <state x="371" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1585227362426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585223294518" />
+    <state x="371" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585227362426" />
+    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585229372419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585229372419" />
     <state x="695" y="49" key="search.everywhere.popup" timestamp="1584986498882">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
